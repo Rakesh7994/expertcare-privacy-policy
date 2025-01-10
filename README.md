@@ -63,7 +63,7 @@ You have the right to:
 2. Request Corrections to inaccurate or incomplete information.
 3. Request Deletion of your personal information, subject to applicable legal requirements.
 
-To exercise these rights, including deleting your account, you can use the account deletion option available within the App under [Profile > Delete Account]. This will permanently delete your personal information from our system, subject to applicable legal requirements. If you encounter any issues, you may also contact us at carehomeexpert@gmail.com.
+To exercise these rights, including deleting your account, you can use the account deletion option available within the App under [Profile > Delete Account]. This will permanently delete your personal information from our system, subject to applicable legal requirements. If you encounter any issues, you may also contact us at carehomeexpert@gmail.com..
 
 
 ---
