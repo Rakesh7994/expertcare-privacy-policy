@@ -1,9 +1,9 @@
 # expertcare-privacy-policy
 Privacy Policy for the ExpertCare mobile application.
 
-Effective Date: January 10,2025
+Effective Date: February 16, 2025
 
-Your privacy is important to us. This Privacy Policy explains how ExpertCare ("we", "our", or "us") collects, uses, and protects your information when you use our mobile application ExpertCare. By using the App, you agree to the terms of this Privacy Policy.
+Your privacy is important to us. This Privacy Policy explains how we collects, uses, and protects your information when you use our mobile application ExpertCare. By using the App, you agree to the terms of this Privacy Policy.
 
 ---
 
@@ -50,9 +50,19 @@ We do not sell or share your personal information with third parties for marketi
 
 ---
 
- 4. Data Security
+4. Data Security
+We take appropriate security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. These measures include:
 
-We take appropriate security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. These measures include encryption of sensitive data, secure server infrastructure, and regular security audits. However, please note that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+Encryption of sensitive data
+Secure server infrastructure
+Regular security audits
+However, please note that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+1. Security of Communication with External Hardware (ESP32 , ESP8266)
+-No personal data is transmitted to the external hardware or stored on the device.
+-The App does not connect to any third-party servers for EEPROM programming.
+-Communication is restricted within the user's private network and does not expose any data to the internet.
+-We recommend users secure their local network to prevent unauthorized access to the external hardware.
 
 ---
 
